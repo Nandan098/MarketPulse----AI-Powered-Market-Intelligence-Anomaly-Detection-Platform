@@ -1,0 +1,13 @@
+symbol,published_at,title,summary,source,url
+AAPL,2026-10-26T14:00:00Z,Demo headline: Example device maker reports stronger quarterly demand,Fictional sample text for demonstrating sentiment scoring. The hypothetical company reported strong demand and improved growth.,DEMO — fictional example,
+AAPL,2026-10-17T14:00:00Z,Demo headline: Example supplier faces a temporary delivery delay,Fictional sample text for testing a neutral-to-negative news classification workflow.,DEMO — fictional example,
+AAPL,2026-10-08T14:00:00Z,Demo headline: Example company announces a new accessibility feature,Fictional sample text describing a product update and potential customer benefits.,DEMO — fictional example,
+MSFT,2026-10-24T14:00:00Z,Demo headline: Example cloud service sees higher customer adoption,Fictional sample text for demonstrating a positive-toned market headline.,DEMO — fictional example,
+MSFT,2026-10-15T14:00:00Z,Demo headline: Example software rollout requires additional review,Fictional sample text for showing how operational risk language is scored.,DEMO — fictional example,
+MSFT,2026-10-06T14:00:00Z,Demo headline: Example company expands developer education resources,Fictional sample text about a hypothetical education initiative.,DEMO — fictional example,
+NVDA,2026-10-22T14:00:00Z,Demo headline: Example chip designer reports strong demand from data centers,Fictional sample text about hypothetical demand and positive growth.,DEMO — fictional example,
+NVDA,2026-10-13T14:00:00Z,Demo headline: Example hardware launch faces supply constraints,Fictional sample text about a hypothetical supply issue and execution risk.,DEMO — fictional example,
+NVDA,2026-10-04T14:00:00Z,Demo headline: Example research team publishes an efficiency improvement,Fictional sample text about a hypothetical technical improvement.,DEMO — fictional example,
+TSLA,2026-10-20T14:00:00Z,Demo headline: Example automaker announces a new service offering,Fictional sample text about a hypothetical product expansion.,DEMO — fictional example,
+TSLA,2026-10-11T14:00:00Z,Demo headline: Example factory reports a production slowdown,Fictional sample text about hypothetical operational risk and lower output.,DEMO — fictional example,
+TSLA,2026-10-02T14:00:00Z,Demo headline: Example charging network adds new locations,Fictional sample text about a hypothetical network expansion.,DEMO — fictional example,
